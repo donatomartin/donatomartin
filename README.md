@@ -1,7 +1,6 @@
 ## Hey, It's Donato Martín ⭐
 
-Software Engineering, University of Oviedo
-I use arch btw
+Software Engineering, University of Oviedo.
 
 These are my favourite languages:
 
@@ -24,3 +23,5 @@ These are my favourite technologies:
 <img src="https://github.com/user-attachments/assets/de6f6081-974d-45ad-9386-f8ae99cef7f7" width="48" />
 <img src="https://github.com/user-attachments/assets/1f703549-808a-456a-9d97-532482088fe0" width="48" />
 <img src="https://github.com/user-attachments/assets/9866be0c-4af6-4777-b699-bbcec77c42fb" width="48" />
+
+_I use arch btw_
