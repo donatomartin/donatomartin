@@ -1,6 +1,7 @@
 ## Hey, It's Donato Martín ⭐
 
-SE student in the University of Oviedo
+Software Engineering, University of Oviedo
+I use arch btw
 
 These are my favourite languages:
 
