@@ -24,4 +24,4 @@ These are my favourite technologies:
 <img src="https://github.com/user-attachments/assets/1f703549-808a-456a-9d97-532482088fe0" width="48" />
 <img src="https://github.com/user-attachments/assets/9866be0c-4af6-4777-b699-bbcec77c42fb" width="48" />
 
-_I use arch btw_
+_I use NixOS btw_
