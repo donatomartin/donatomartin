@@ -1,4 +1,4 @@
-## Hey, It's Donato Martín ⭐
+## Hey, It's Donato Martín
 
 Software Engineering, University of Oviedo.
 
